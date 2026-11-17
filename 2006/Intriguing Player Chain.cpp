@@ -1,14 +1,5 @@
-/**
- *    created: 05-11-2026 15:59:47
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
-#if !defined(ONLINE_JUDGE)
-#include "debug.h"
-#else
-#define debug(...) do {} while(0)
-#endif
 
 #define int long long
 

@@ -1,14 +1,5 @@
-/**
- *    created: 06-11-2026 18:43:34
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
-#if !defined(ONLINE_JUDGE)
-#include "debug.h"
-#else
-#define debug(...) do {} while(0)
-#endif
 
 #define int long long
 
@@ -29,7 +20,6 @@ void solve() {
         }
     }
 
-    debug(dp);
     vector<int> ans(n);
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {

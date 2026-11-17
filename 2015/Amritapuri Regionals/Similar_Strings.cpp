@@ -1,14 +1,5 @@
-/**
- *    created: 07-11-2026 11:51:55
-**/
-
 #include <bits/stdc++.h>
 using namespace std;
-#if !defined(ONLINE_JUDGE)
-#include "debug.h"
-#else
-#define debug(...) do {} while(0)
-#endif
 
 /*
     Modular Arithmetic Operations (ModInt)
