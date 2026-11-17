@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Keep directories so git can descend into them
+!*/
+
+# Keep only problemsets (PDF), code, and markdown
+!*.pdf
+!*.cpp
+!*.md
+!.gitignore
+
+# Explicitly ignored (CPH, macOS, build output)
+.cph/
+.DS_Store
+*.bin
+*.dSYM/
