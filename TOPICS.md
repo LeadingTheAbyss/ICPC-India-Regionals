@@ -13,7 +13,7 @@ Every problem from the [regional folders](README.md) grouped by its main topic. 
 
 | Problem | Contest | Solution | Tags |
 |---------|---------|----------|------|
-| Longest Run on a Snowboard | 2006 Amrita | [Code](2006/Longest_Run_on_a_Snowboard.cpp) | Grid DP, Memoized DFS, DAG, GCD, Path Reconstruction |
+| Longest Run on a Snowboard | 2006 Amrita | [Code](2006/Longest%20Run%20on%20a%20Snowboard.cpp) | Grid DP, Memoized DFS, DAG, GCD, Path Reconstruction |
 | Jump On Buildings | 2015 Amritapuri | [Code](2015/Amritapuri%20Regionals/Jump_On_Buildings.cpp) | Interval DP |
 
 ## Combinatorics
@@ -26,10 +26,10 @@ Every problem from the [regional folders](README.md) grouped by its main topic. 
 
 | Problem | Contest | Solution | Tags |
 |---------|---------|----------|------|
-| Little Seherish and Tree | 2022 Kanpur | [Code](2022/Kanpur%20Regionals/Little_Seherish_and_Tree.cpp) | BFS, Greedy, Prime Factorisation |
+| Little Seherish and Tree | 2022 Kanpur | [Code](2022/Kanpur%20Regionals/Little%20Seherish%20and%20Tree.cpp) | BFS, Greedy, Prime Factorisation |
 
 ## Backtracking
 
 | Problem | Contest | Solution | Tags |
 |---------|---------|----------|------|
-| Intriguing Player Chain | 2006 Amrita | [Code](2006/Intriguing_Player_Chain.cpp) | DFS, Sieve of Eratosthenes, Number Theory, Precomputation |
+| Intriguing Player Chain | 2006 Amrita | [Code](2006/Intriguing%20Player%20Chain.cpp) | DFS, Sieve of Eratosthenes, Number Theory, Precomputation |
