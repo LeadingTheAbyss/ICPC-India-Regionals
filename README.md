@@ -14,6 +14,8 @@ All solutions here are correct: I've stress tested them myself. Feel free to use
 
 Files are named after the problem title, for example `Longest_Run_on_a_Snowboard.cpp`.
 
+Looking for a particular topic? Browse all problems by topic in [TOPICS.md](TOPICS.md).
+
 ## Repository layout
 
 ```
