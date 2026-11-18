@@ -27,6 +27,7 @@ Every problem from the [regional folders](README.md) grouped by its main topic. 
 | Problem | Contest | Solution | Tags |
 |---------|---------|----------|------|
 | Little Seherish and Tree | 2022 Kanpur | [Code](2022/Kanpur%20Regionals/Little%20Seherish%20and%20Tree.cpp) | BFS, Greedy, Prime Factorisation |
+| Road Trip | 2022 Kanpur | [Code](2022/Kanpur%20Regionals/Road%20Trip.cpp) | Dijkstra, Shortest Path, State-Space Search (distance mod k) |
 
 ## Backtracking
 
