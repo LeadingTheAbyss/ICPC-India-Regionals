@@ -15,3 +15,6 @@
 .DS_Store
 *.bin
 *.dSYM/
+
+# Work in progress (revisit later)
+2022/Kanpur Regionals/Diameter Division.cpp
